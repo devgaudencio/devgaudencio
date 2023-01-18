@@ -13,4 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <b/>
 
+## Tecnologias mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/devgaudencio/github-readme-stats)
+
 Apaixonado por tecnologia. Buscando conhecimento SEMPRE!
