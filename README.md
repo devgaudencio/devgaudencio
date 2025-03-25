@@ -10,6 +10,7 @@
 ## Tecnologias 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/just%20the%20message-8A2BE2).
 <b/>
 
 ## Tecnologias mais utilizadas
