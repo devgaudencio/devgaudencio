@@ -86,13 +86,3 @@ Gosto de criar algumas gambiarras e tentar inovar sites ou sistemas
 </picture>
 
 </div>
-
----
-
-<div align="center">
-
-### 💡 Transformando conhecimento em soluções.
-
-Obrigado pela visita! 🚀
-
-</div>
