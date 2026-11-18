@@ -42,24 +42,34 @@ Gosto de criar algumas gambiarras e tentar inovar sites ou sistemas
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+<h2>🛠️ Tecnologias e Ferramentas</h2>
 
-<div align="left">
+<h3>💻 Desenvolvimento e Infraestrutura</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lovable/lovable-original.svg" title="Lovable" alt="Lovable" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codex/codex-original.svg" title="Codex" alt="Codex" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg" title="cPanel" alt="cPanel" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40" />
+<p>
+  <img src="https://api.iconify.design/logos/html-5.svg" title="HTML5" alt="HTML5" width="40" height="40" />
+  <img src="https://api.iconify.design/logos/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
+  <img src="https://api.iconify.design/logos/supabase-icon.svg" title="Supabase" alt="Supabase" width="40" height="40" />
+  <img src="https://api.iconify.design/logos/vercel-icon.svg" title="Vercel" alt="Vercel" width="40" height="40" />
+  <img src="https://api.iconify.design/simple-icons/cpanel.svg?color=%23FF6C2C" title="cPanel" alt="cPanel" width="40" height="40" />
+  <img src="https://api.iconify.design/mdi/github.svg?color=%23818181" title="GitHub" alt="GitHub" width="40" height="40" />
+</p>
 
-</div>
+<h3>🤖 Inteligência Artificial e Automação</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codex/codex-original.svg" title="Codex" alt="Codex" width="40" height="40" />
+  <img src="https://api.iconify.design/logos/openai-icon.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40" />
+  <img src="https://api.iconify.design/logos/google-gemini.svg" title="Gemini" alt="Gemini" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lovable/lovable-original.svg" title="Lovable" alt="Lovable" width="40" height="40" />
+</p>
+
+<h3>🎨 Design e Produtividade</h3>
+
+<p>
+  <img src="https://api.iconify.design/simple-icons/canva.svg?color=%2300C4CC" title="Canva" alt="Canva" width="40" height="40" />
+  <img src="https://api.iconify.design/vscode-icons/file-type-excel.svg" title="Excel" alt="Excel" width="40" height="40" />
+</p>
 
 ---
 
